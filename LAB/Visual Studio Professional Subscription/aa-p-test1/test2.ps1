@@ -1,2 +1,2 @@
 #test12
-#auto_sync_test
+#auto_sync_test_final
