@@ -1,4 +1,4 @@
-Script for creation of Automation Account Source Control (GitHub). Helpful in tenants with high number of Automation Accounts. Script setups the source control for Automation Accounts located in specified subscription.
+Script for creation of Automation Account Source Control (GitHub). Helpful in tenants with high number of Automation Accounts. Script setups the source control for Automation Accounts located in specified subscription. Most of the variables you need to modify are in variables region, for additional modifications search '#Modify:' keyword in the script.
 
 Main content:
 - aa-gh-source-control-setup.ps1
@@ -20,7 +20,6 @@ PREREQUISITES to run the script:
   #Az.Resources
 
 All actions are followed steps from doc: https://learn.microsoft.com/en-us/azure/automation/source-control-integration
-Most of the variables you need to modify are in variables region, for additional modifications search '#Modify:' keyword in the script.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ##Modules required:
