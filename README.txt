@@ -7,8 +7,9 @@ Main content:
 #3 Creation of GH repo structure /<env>/<Subscription Name>/<Automation Account Name>
 #4. Add source control to AA
 
-Bonus content (update of re-generated PAT):
+Bonus content:
 - aa-gh-source-control-PAT-update.ps1
+#1. update Source Control with re-generated PAT
 
 PREREQUISITES to run the script:
  - User Assigned Managed Identity
