@@ -12,7 +12,7 @@ Bonus content (update of re-generated PAT):
 
 PREREQUISITES to run the script:
  - User Assigned Managed Identity
- - PAT (GitHub)
+ - Generated PAT (GitHub)
  - Modules:
   #Az.Automation
   #Az.Accounts
