@@ -127,7 +127,8 @@ foreach($AA in $AAs){
     $resourceGroup = $AA.ResourceGroupName
     $automationAccount = $AA.AutomationAccountName
     $subscriptionID = $AA.SubscriptionId
-        
+    
+    #Modify: RepoUrl
     New-AzAutomationSourceControl `
     -Name SCGitHub `
     -RepoUrl https://github.com/amaluga/aa-gh-source-control.git `
