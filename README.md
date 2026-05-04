@@ -1,4 +1,4 @@
-Update note: A better approach is to use GitHub Actions with federated credentials.
+**Update note: A better approach is to use GitHub Actions with federated credentials.**
 
 ---
 
