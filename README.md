@@ -1,3 +1,7 @@
+Update note: A better approach is to use GitHub Actions with federated credentials.
+
+---
+
 # Automation Account GitHub Source Control Setup
 
 Script for creation of Automation Account Source Control (GitHub). Helpful in tenants with a high number of Automation Accounts. The script sets up source control for Automation Accounts located in a specified subscription.
